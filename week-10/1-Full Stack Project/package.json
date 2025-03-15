@@ -1,0 +1,20 @@
+{
+  "name": "1-full-stack-project",
+  "version": "1.0.0",
+  "description": "A node project for authentication",
+  "main": "try.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon try.js"
+  },
+  "author": "Abhay Narayan",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
